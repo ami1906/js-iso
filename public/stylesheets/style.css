@@ -1,0 +1,49 @@
+body {
+  padding: 50px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.container{
+	max-width: 1280px;
+}
+.desc{
+	padding: 15px 35px;
+}
+.colors{
+	padding-top:5px;
+}
+#box{
+	width: 100px;
+    height: 100px;
+    display: block;
+    margin-right: 20px;
+    float: left;
+    border: solid 1px black;
+}
+
+.small-box{
+	width: 18px;
+    height: 18px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.green{
+	background-color: green;
+}
+.red{
+	background-color: red;
+}
+.black{
+	background-color: black;
+}
+.blue{
+	background-color: blue;
+}
+.content{
+  width:220px;
+  margin: auto;
+}
